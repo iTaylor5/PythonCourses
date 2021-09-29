@@ -12,7 +12,3 @@ This will start the django server. You can access the homepage at,
     localhost://8000
 
 Used bootstrap, and Django framework.
-
-![Screenshot](../images/homepage.png)
-
-![Screenshot](../images/password_generated.png)
